@@ -22,6 +22,6 @@ declare namespace createTestServer {
 	}
 }
 
-declare function createTestServer(options: createTestServer.Options): Promise<createTestServer.Server>;
+declare function createTestServer(options?: createTestServer.Options): Promise<createTestServer.Server>;
 
 export = createTestServer;
