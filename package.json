@@ -1,6 +1,6 @@
 {
   "name": "@xg-wang/create-test-server",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Creates a minimal Express server for testing",
   "main": "src/index.js",
   "types": "src/index.d.ts",
